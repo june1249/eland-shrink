@@ -1,0 +1,24 @@
+{
+  "name": "eland-shrink",
+  "authors": [
+    "june1249 <kliz78@gmail.com>"
+  ],
+  "description": "Header shrink for Ionic framework",
+  "main": "eland-shrink.js",
+  "keywords": [
+    "ionic",
+    "header",
+    "shrink",
+    "ionicframework"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/june1249/eland-shrink",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
